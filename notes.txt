@@ -1,0 +1,9 @@
+boolean - 1 byte
+integers
+    -i16 - 2 bytes
+    -i32 - 4 bytes
+    -i64 - 8 bytes
+
+
+only let is used in rust
+
